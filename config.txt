@@ -19,8 +19,8 @@
 # 生日
 "birthday1": {"name": "包文卓", "birthday": "2003-04-06"},
 "birthday2": {"name": "徐文辉", "birthday": "2003-06-19"},
-"birthday2": {"name": "柴yq", "birthday": "2003-02-26"},
-"birthday2": {"name": "王八哥", "birthday": "2001-07-05"},
+"birthday3": {"name": "柴yq", "birthday": "2003-02-26"},
+"birthday4": {"name": "王八哥", "birthday": "2001-07-05"},
 # 在一起的日子，格式同上
 "love_date": "2021-9-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
